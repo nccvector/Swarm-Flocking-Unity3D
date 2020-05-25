@@ -1,4 +1,4 @@
-# Swarm Flocking Simulation in Unity3d
+# Swarm Flocking Simulation in Unity3D
 
 <img src="misc/Swarm-Flocking.gif" />
 
